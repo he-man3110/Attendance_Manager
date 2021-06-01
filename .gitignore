@@ -1,0 +1,13 @@
+.vscode/
+.qt_for_python/
+__pycache__/
+backup/
+images/
+known/
+Mockups/
+res/
+Ui Files/
+*.jpg
+*.json
+*.txt
+*.sql
